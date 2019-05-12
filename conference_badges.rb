@@ -1,1 +1,1 @@
-attendees = [Edgar]
+attendees = [Edsgar, ]
