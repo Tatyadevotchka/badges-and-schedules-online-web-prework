@@ -1,1 +1,1 @@
-attendees = ["Edsgar", "Ada", ]
+attendees = ["Edsgar", "Ada", "Charles", ""]
