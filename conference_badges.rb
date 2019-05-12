@@ -7,5 +7,5 @@ def batch_badge_creator(attendees)
     "Hello, my name is {attendee}."
   end
   def assign_rooms(attendees)
-    attendees.map do |attendee, index|
+    attendees.each_with_indexmap do |attendee, index|
       
